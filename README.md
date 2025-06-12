@@ -12,6 +12,7 @@ This project extracts subject–predicate–object triples from any input text a
 Install dependencies:
 
 pip install spacy streamlit networkx pyvis
+
 python -m spacy download en_core_web_sm
 
 Run in terminal:
